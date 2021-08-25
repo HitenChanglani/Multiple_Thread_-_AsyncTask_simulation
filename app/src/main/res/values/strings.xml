@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="generateUsingThread">Generate Using Thread</string>
+    <string name="generateUsingAsyncTask">Generate Using AsyncTask</string>
+    <string name="selectComplexity">Select Complexity</string>
+    <string name="complexityValue" />
+    <string name="averageValue" />
+    <string name="progressBarValue" />
+    <string name="blankComplexity">Select Complexity Level</string>
+    <string name="activityTitle">Main Activity</string>
+</resources>
